@@ -2,6 +2,11 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+**This is me.**
 
-For details, see the exercise instructions. 
+My name is Mayra and I am a Graduate student at the University of Georgia Department of Food Science and Technology. I spent my childhood in Mexico and have lived in different countries during my adulthood.
+
+**My professional background and research interests**
+
+I have a Bachelor's in Biology and a Master in Biomedical Sciences. I am passionate about molecular and cell biology, food borne diseases, epidemiology, and public health, although I still have much to learn on the last couple of topics. I have intermediate-level training in inferential statistics and none in programming :S
+
